@@ -1,0 +1,13 @@
+{
+    "name": "CricketZone",
+    "version": "1.0.0",
+    "description" : "How's the josh-o-meter today",
+    "manifest_version": 3,
+    "author": "chanchal sharma",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "my chrome extension"
+    }
+
+
+}
